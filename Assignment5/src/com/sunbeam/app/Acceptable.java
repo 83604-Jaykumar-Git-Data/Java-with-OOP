@@ -2,7 +2,7 @@ package com.sunbeam.app;
 
 import java.util.Scanner;
 
-public interface acceptable {
+public interface Acceptable {
 	
 	
 	void acceptEmployee(Scanner sc);
