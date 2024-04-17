@@ -10,5 +10,4 @@ public class Q1 {
 		StringBuilder rev = new StringBuilder(str).reverse();
 		System.out.println(rev);
 	}
-
 }

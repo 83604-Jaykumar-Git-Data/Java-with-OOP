@@ -13,8 +13,6 @@ public class Q2 {
 		if(rev.toString().equals(str))
 			System.out.println("Palindrome");
 		else 
-			System.out.println("Not Palindrome");
-		
-		
+			System.out.println("Not Palindrome");		
 	}
 }

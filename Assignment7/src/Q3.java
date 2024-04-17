@@ -16,7 +16,5 @@ public class Q3 {
 		
 		String[] ans = tr.split(" ");
 		System.out.println(ans.length);
-		
 	}
-
 }
